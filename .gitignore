@@ -1,5 +1,4 @@
-*
-!/src/*.*
-!.gitignore
-!LICENSE
-!pom.xml
+/.idea/
+/.git/
+/target/
+spring_mybatis.iml
